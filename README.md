@@ -1,6 +1,6 @@
 # Sistema de Biblioteca
 
-Atividade desenvolvida na matéria de ´´Linguagem de programação 2 (LP2)´´
+Atividade desenvolvida na matéria de **Linguagem de programação 2 (LP2)**.
 
 ## Sobre a atividade
 
